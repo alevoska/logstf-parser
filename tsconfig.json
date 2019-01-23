@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "commonjs",
+        "moduleResolution": "Node",
+        "lib": ["es2018"],
+        "strict": true,
+        "outDir": "build"
+    },
+    "files": ["ParseFile.ts"]
+}
